@@ -20,5 +20,13 @@
     "driver"
   ],
   "author": "Giovanni Pires da Silva <giovannipds@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovannipds/mongodb-intro-to-the-nodejs-driver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/giovannipds/mongodb-intro-to-the-nodejs-driver/issues"
+  },
+  "homepage": "https://github.com/giovannipds/mongodb-intro-to-the-nodejs-driver#readme"
 }
