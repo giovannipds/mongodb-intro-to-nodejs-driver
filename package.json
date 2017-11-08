@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-intro-to-nodejs-driver",
+  "version": "1.0.0",
+  "description": "Intro to the Node.js's MongoDB driver, based on the MongoDB University course",
+  "main": "app.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^2.2.33"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "mongo",
+    "intro",
+    "hello-world",
+    "nodejs",
+    "driver"
+  ],
+  "author": "Giovanni Pires da Silva <giovannipds@gmail.com>",
+  "license": "ISC"
+}
